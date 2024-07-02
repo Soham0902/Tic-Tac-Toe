@@ -6,7 +6,7 @@ Welcome to the Tic-Tac-Toe game repository! This project is a simple implementat
 
 - [Features](#features)
 - [Installation](#installation)
-- [Live Demo Link](#Live)
+- [Live Demo](#live-demo)
 - [Contributing](#contributing)
 
 ## Features
